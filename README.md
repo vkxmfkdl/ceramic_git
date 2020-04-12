@@ -15,7 +15,7 @@
 
 5. 활동기간: 2019.09~2019.12
 
-6. 데모영상: 공개불가
+6. 데모영상: https://www.youtube.com/watch?v=tUKTj3WHQgI
 
 7. 결과화면
 
