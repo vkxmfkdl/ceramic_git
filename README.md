@@ -25,7 +25,7 @@
 
 <b>2) 특성 품질관리 </b>
 
-<img src="https://user-images.githubusercontent.com/37204852/79062423-3bb7c900-7cd5-11ea-8906-88dc579b1ad9.png">
+<img src="https://user-images.githubusercontent.com/37204852/79062560-65252480-7cd6-11ea-8733-67491379b3c6.png">
 
 <b>3) 구조 품질관리 </b>
 
