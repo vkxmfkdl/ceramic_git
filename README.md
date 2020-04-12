@@ -29,5 +29,5 @@
 
 <b>3) 구조 품질관리 </b>
 
-<img src="https://user-images.githubusercontent.com/37204852/79062019-2f317180-7cd1-11ea-9023-21a6818e709e.png">
+<img src="https://user-images.githubusercontent.com/37204852/79062462-a2d57d80-7cd5-11ea-840b-3f24f7f22b7f.png">
 
